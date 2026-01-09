@@ -2,7 +2,8 @@
 
 API REST desarrollada con **Spring Boot** para la gestión de la plataforma **Nexus**. Este sistema permite la administración de actores, empresas, contratos, ofertas y comentarios, siguiendo una arquitectura escalable basada en el diagrama de dominio del proyecto.
 
-![Diagrama UML Nexus](UML_Nexus.jpg)
+<img width="2040" height="3180" alt="UML_Nexus" src="https://github.com/user-attachments/assets/440652b3-6c7f-4d8d-a545-fb4e20f796ed" />
+
 
 ## 📋 Descripción
 
